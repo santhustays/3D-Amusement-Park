@@ -16,3 +16,5 @@ Use c key to PolygonMode LINE of front and back
 Use C key to PolygonMode FILL of front and back
 Use l key to light off
 Use L key to light on
+
+IDE = Codeblocks(WindowsOS)
