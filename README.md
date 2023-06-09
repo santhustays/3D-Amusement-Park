@@ -8,13 +8,22 @@ Use Escape key from the keyboard to quit and come out.
 KEYBOARD & MOUSE FUNCTIONS
 
 *Use arrow keys to view park.
+
 *Use ^ key to move front.
+
 *Use v key to move back.
+
 *Use <- key to move left.
+
 *Use -> key to move right.
+
 *Use c key to PolygonMode LINE of front and back
+
 *Use C key to PolygonMode FILL of front and back
+
 *Use l key to light off
+
 *Use L key to light on
+
 
 IDE = Codeblocks(WindowsOS)
